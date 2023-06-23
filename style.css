@@ -1,0 +1,92 @@
+
+.heading_style{
+   padding: 30px 0;
+   font-family: "Releway", sans-serif;
+   text-transform: uppercase;
+   font-size: 13px;
+   letter-spacing: 2px;
+   font-weight: 500;
+   font-size: 1.5rem;
+   margin-bottom: 30px;
+   text-align: center   ;
+   background: #fff;
+}
+.slot_inner{
+   color: rgb(0, 0, 0);
+   background: rgb(139, 117, 117);
+   width: 177px;
+   height: 41px;
+   font-size: 5px;
+}
+.slotmachine{
+   border: 2px solid black;
+   /* align-items: center;
+   justify-content: revert; */
+   margin: auto;
+   height: 1369px;
+}
+.slot_inner h1{
+   padding-left: 50px;
+}
+/* .evnt{
+   margin-left: 698px;
+}
+.heading_style{
+   width: 609px;
+}
+.ev{
+   margin-top: 130px;
+   margin-left: -8px;
+}
+.btn1{
+   height: 58px;
+   width: 689px;
+   background: bal;
+   background: black;
+   color: white;
+   border: 5px solid red;
+   font-size: 25px;
+   border-radius: 17px;
+   box-shadow: inset 5em 1em gold;
+box-shadow: 2px 0px red, 0em -11px 0.4em rgb(2, 128, 128);
+margin: auto; */
+
+
+/* }
+.btn1:hover{
+background-color: red;
+color: black;
+border: 5px solid rgb(0, 0, 0);
+}
+.txt{
+   width: 700px;
+   height: 500px;
+   font-size: 55px;
+   border-radius: 22px;
+   border: 5px solid red;
+   background: black;
+   color: rgb(255, 255, 255);
+}
+
+.textarea_body {
+   margin: auto;
+}  */
+
+.card{
+   border: 2px solid red;
+width: 296px;
+height: 284px;
+text-align: center;
+}
+.card_img{
+   width: 296px;
+}
+.evnt{
+   display: flex;
+}
+#lembo{
+   height: 167px;
+}
+.cards{
+   margin: auto;
+}
